@@ -1,0 +1,9 @@
+{
+    "path" : "~/ShinyMeta",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

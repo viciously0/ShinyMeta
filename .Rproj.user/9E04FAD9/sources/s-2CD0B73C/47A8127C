@@ -1,19 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1516373950238.000,
+    "created" : 1516439742242.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2050250693",
-    "id" : "2ECAEE0D",
-    "lastKnownWriteTime" : 1507156924,
-    "last_content_update" : 1507156924,
+    "hash" : "439761514",
+    "id" : "47A8127C",
+    "lastKnownWriteTime" : 1516464856,
+    "last_content_update" : 1516464856800,
     "path" : "~/ShinyMeta/ShinyMeta/ui.R",
     "project_path" : "ShinyMeta/ui.R",
     "properties" : {
+        "cursorPosition" : "15,3",
+        "scrollLine" : "0"
     },
-    "relative_order" : 1,
+    "relative_order" : 2,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_source"
