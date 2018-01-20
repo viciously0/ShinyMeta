@@ -5,16 +5,16 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "3267522273",
     "id" : "844277DC",
     "lastKnownWriteTime" : 1516464380,
     "last_content_update" : 1516464380902,
     "path" : "~/ShinyMeta/ShinyMeta/server.R",
     "project_path" : "ShinyMeta/server.R",
     "properties" : {
-        "cursorPosition" : "95,7",
+        "cursorPosition" : "96,8",
         "notebook_format" : "html_document",
-        "scrollLine" : "79"
+        "scrollLine" : "72"
     },
     "relative_order" : 1,
     "source_on_save" : false,
