@@ -4,8 +4,8 @@
 
 -Aufgaben:
 	Jannis:
-		-Feedback beim laden des Datesatzes
-		-Scrollabel Boxes
+		(done) -Feedback beim laden des Datesatzes
+		(done) -Scrollabel Boxes
 		-Simulation
 	Simon:
 		-Meta-Analyse
