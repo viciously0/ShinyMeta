@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1516561019254.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3843248895",
+    "id" : "32F0F615",
+    "lastKnownWriteTime" : 1517183609,
+    "last_content_update" : 1517183609510,
+    "path" : "~/GitHub/ShinyMeta/ShinyMeta/server.R",
+    "project_path" : "ShinyMeta/server.R",
+    "properties" : {
+        "cursorPosition" : "95,12",
+        "scrollLine" : "46"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
