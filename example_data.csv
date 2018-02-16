@@ -1,0 +1,8 @@
+"","trial","author","year","tpos","tneg","cpos","cneg","ablat","alloc","N"
+"1",1,"Aronson",1948,4,119,11,128,44,"random",262
+"2",2,"Ferguson & Simes",1949,6,300,29,274,55,"random",609
+"3",3,"Rosenthal et al",1960,3,228,11,209,42,"random",451
+"4",4,"Hart & Sutherland",1977,62,13536,248,12619,52,"random",26465
+"7",7,"Vandiviere et al",1973,8,2537,10,619,19,"random",3174
+"8",8,"TPT Madras",1980,505,87886,499,87892,13,"random",176782
+"9",9,"Coetzee & Berjak",1968,29,7470,45,7232,27,"random",14776
