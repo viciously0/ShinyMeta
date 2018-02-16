@@ -1,0 +1,12 @@
+- Contribution:
+	Jannis Denecke:
+		- Feedback beim laden des Datesatzes
+		- Scrollabel Boxes
+		
+	Simon Valentin; Matrikel-Nr.: 915535
+		- Data Simulation
+		- Example data
+		
+	Maximilian Harkotte; Matrikel-Nr.: 914951
+		- Forest plot
+		- Example data
