@@ -1,12 +1,16 @@
 - Contribution:
-	Jannis Denecke:
-		- Feedback beim laden des Datesatzes
+	Jannis Denecke: Matrikel-Nr.: 914624
+		- Introduction & Information
+		- Data Upload / Data Specification
+		- Data Overview
 		- Scrollabel Boxes
 		
 	Simon Valentin; Matrikel-Nr.: 915535
+		- Introduction & Information
 		- Data Simulation
 		- Example data
 		
 	Maximilian Harkotte; Matrikel-Nr.: 914951
+		- Introduction & Information
 		- Forest plot
 		- Example data
