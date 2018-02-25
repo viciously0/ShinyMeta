@@ -5,17 +5,17 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3843248895",
+    "hash" : "0",
     "id" : "32F0F615",
-    "lastKnownWriteTime" : 1517183609,
-    "last_content_update" : 1517183609510,
+    "lastKnownWriteTime" : 1519570812,
+    "last_content_update" : 1519570812132,
     "path" : "~/GitHub/ShinyMeta/ShinyMeta/server.R",
     "project_path" : "ShinyMeta/server.R",
     "properties" : {
-        "cursorPosition" : "95,12",
-        "scrollLine" : "46"
+        "cursorPosition" : "15,19",
+        "scrollLine" : "0"
     },
-    "relative_order" : 1,
+    "relative_order" : 2,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_source"
