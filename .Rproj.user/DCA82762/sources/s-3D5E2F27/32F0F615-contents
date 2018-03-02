@@ -11,17 +11,6 @@ library(metafor)
 library(DT)
 
 
-# TODO
-# - [x] Example data (bcg, alloc column) S + M
-# - [X] Description box on data selection page (cite metafor) J
-# - [x] Odds ratio decimal places slider S
-# - [X] Select variables from imported data J
-# - [x] Info/value boxes for suppl. info (links to packages, interesting articles, etc.) M + S
-# - [ ] Document contributions
-# - [x] Data simultion S
-
-
-
 # Define server logic
 shinyServer(function(input, output) {
   simulate_data = function(n, m, sd, or) {

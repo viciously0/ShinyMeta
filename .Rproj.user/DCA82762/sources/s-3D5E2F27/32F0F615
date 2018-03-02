@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "3383356890",
     "id" : "32F0F615",
-    "lastKnownWriteTime" : 1519570812,
-    "last_content_update" : 1519570812132,
+    "lastKnownWriteTime" : 1519986958,
+    "last_content_update" : 1519986958064,
     "path" : "~/GitHub/ShinyMeta/ShinyMeta/server.R",
     "project_path" : "ShinyMeta/server.R",
     "properties" : {
-        "cursorPosition" : "15,19",
+        "cursorPosition" : "11,0",
         "scrollLine" : "0"
     },
     "relative_order" : 2,
